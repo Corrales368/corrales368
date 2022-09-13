@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/santiago-corrales-londo%C3%B1o-268561189/](https://www.linkedin.com/in/santiago-corrales-londo%C3%B1o-268561189/)
 
-- ⚡ Fun fact **Nobody ever changed the world with realistic idea**
+- ⚡ Fun fact "**Nobody ever changed the world with realistic idea**"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
