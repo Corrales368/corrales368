@@ -5,7 +5,7 @@
 
 - 🌱 I'm always **learning Django|DRF and diving into React**
 
-- 👨‍💻 All of my projects are available at (corralesdev.com)
+- 👨‍💻 All of my projects are available at [corralesdev.com]
 
 - 📫 How to reach me **santi368444110@gmail.com**
 
