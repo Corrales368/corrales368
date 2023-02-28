@@ -1,4 +1,6 @@
 # Hey there! 🤝 Welcome...
+# Hey there! 🤝 Welcome..
+![fact](https://media.licdn.com/dms/image/C5616AQFYip_TfFeTgg/profile-displaybackgroundimage-shrink_200_800/0/1663007405713?e=2147483647&v=beta&t=as0l0VtkLcfwwBglxvkHR8dZERDg-pZiG57sz-fHurc)
 ## About me...
 I'm a passionate developer with backend experience, specializing in Python, Django and the Django Rest Framework. I love learning new things and facing technological challenges.
 
