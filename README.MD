@@ -28,13 +28,18 @@ I believe that having a good attitude is essential to face daily and adverse sit
 | :----------------------:| :------------------: | :-------------------: |
 |![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=yellow) ![DO](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)  | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![git](	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 
+## Check some of my stats
+
+| *GitHub Stats* | *Programming Languages* |
+---|---  
+| ![NousCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=corrales368&bg_color=30,306998,FFD43B&title_color=fff&text_color=fff) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Corrales368&bg_color=30,306998,FFD43B&title_color=fff&text_color=fff&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/santiago-corrales-londo%c3%b1o-268561189/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-corrales-londo%c3%b1o-268561189/" height="30" width="40" /></a>
-</p>
+## 📡 Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- [LinkedIn](https://www.linkedin.com/in/santiago-corrales-londo%C3%B1o-268561189/)
 
+## Resources
+Write me an email or Download my CV.
+- My email: <a style="margin-left: 8px;" href="mailto:santi368444110@gmail.com">santi368444110@gmail.com</a>
+- My CV in PDF format: <a style="text-align: center;" href="https://corralesdev.com/cv-santiago-corrales/">Curriculum Vitae</a>
